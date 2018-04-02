@@ -1,0 +1,828 @@
+body {
+	margin: 0px; padding: 0px;
+}
+div {
+	margin: 0px; padding: 0px;
+}
+ol {
+	margin: 0px; padding: 0px;
+}
+ul {
+	margin: 0px; padding: 0px;
+}
+h1 {
+	margin: 0px; padding: 0px;
+}
+h2 {
+	margin: 0px; padding: 0px;
+}
+h3 {
+	margin: 0px; padding: 0px;
+}
+h4 {
+	margin: 0px; padding: 0px;
+}
+h5 {
+	margin: 0px; padding: 0px;
+}
+h6 {
+	margin: 0px; padding: 0px;
+}
+p {
+	margin: 0px; padding: 0px;
+}
+th {
+	margin: 0px; padding: 0px;
+}
+td {
+	margin: 0px; padding: 0px;
+}
+dl {
+	margin: 0px; padding: 0px;
+}
+dd {
+	margin: 0px; padding: 0px;
+}
+form {
+	margin: 0px; padding: 0px;
+}
+fieldset {
+	margin: 0px; padding: 0px;
+}
+legend {
+	margin: 0px; padding: 0px;
+}
+input {
+	margin: 0px; padding: 0px;
+}
+textarea {
+	margin: 0px; padding: 0px;
+}
+select {
+	margin: 0px; padding: 0px;
+}
+pre {
+	margin: 0px; padding: 0px;
+}
+form {
+	margin: 0px; padding: 0px;
+}
+p {
+	margin: 0px; padding: 0px;
+}
+blockquote {
+	margin: 0px; padding: 0px;
+}
+th {
+	margin: 0px; padding: 0px;
+}
+td {
+	margin: 0px; padding: 0px;
+}
+div {
+	-ms-word-break: break-all; -ms-word-wrap: break-word;
+}
+p {
+	-ms-word-break: break-all; -ms-word-wrap: break-word;
+}
+h1 {
+	-ms-word-break: break-all; -ms-word-wrap: break-word;
+}
+h2 {
+	-ms-word-break: break-all; -ms-word-wrap: break-word;
+}
+h3 {
+	-ms-word-break: break-all; -ms-word-wrap: break-word;
+}
+textarea {
+	-ms-word-break: break-all; -ms-word-wrap: break-word;
+}
+fieldset {
+	border: 0px currentColor; border-image: none;
+}
+img {
+	border: 0px currentColor; border-image: none;
+}
+ol {
+	list-style: none;
+}
+ul {
+	list-style: none;
+}
+li {
+	list-style: none;
+}
+textarea {
+	resize: none;
+}
+input {
+	
+}
+button {
+	
+}
+select {
+	
+}
+textarea {
+	
+}
+address {
+	font-style: normal; font-weight: normal;
+}
+caption {
+	font-style: normal; font-weight: normal;
+}
+cite {
+	font-style: normal; font-weight: normal;
+}
+code {
+	font-style: normal; font-weight: normal;
+}
+dfn {
+	font-style: normal; font-weight: normal;
+}
+em {
+	font-style: normal; font-weight: normal;
+}
+th {
+	font-style: normal; font-weight: normal;
+}
+var {
+	font-style: normal; font-weight: normal;
+}
+i {
+	font-style: normal; font-weight: normal;
+}
+b {
+	font-style: normal; font-weight: normal;
+}
+img {
+	border: currentColor; border-image: none; vertical-align: middle; display: block;
+}
+body {
+	color: rgb(60, 60, 60);
+}
+a {
+	color: rgb(60, 60, 60); text-decoration: none;
+}
+a:hover {
+	color: rgb(60, 60, 60); text-decoration: none;
+}
+.clearfix::after {
+	display: table; content: "";
+}
+.clearfix::before {
+	display: table; content: "";
+}
+.clearfix::after {
+	clear: both;
+}
+.clearfix {
+	
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.fn {
+	float: none;
+}
+.ma {
+	margin-right: auto; margin-left: auto;
+}
+.mtb10 {
+	margin: 10px 0px;
+}
+.mlr10 {
+	margin: 0px 10px;
+}
+.nomarginl {
+	margin-left: 0px;
+}
+.nomargint {
+	margin-top: 0px;
+}
+.nomarginr {
+	margin-right: 0px;
+}
+.nomarginb {
+	margin-bottom: 0px;
+}
+.disb {
+	display: block;
+}
+.disn {
+	display: none;
+}
+.disin {
+	display: inline-block;
+}
+.lineh26 {
+	line-height: 26px;
+}
+.lineh30 {
+	line-height: 30px;
+}
+.lineh84 {
+	line-height: 84px;
+}
+.lineh110 {
+	line-height: 110px;
+}
+.pfixed {
+	top: 0px; position: fixed;
+}
+.prelative {
+	position: relative;
+}
+.pabsolute {
+	position: absolute;
+}
+.tl {
+	text-align: left;
+}
+.tr {
+	text-align: right;
+}
+.tc {
+	text-align: center;
+}
+.vt {
+	vertical-align: top;
+}
+.vm {
+	vertical-align: middle;
+}
+.vh {
+	visibility: hidden;
+}
+.f52 {
+	font-size: 52px;
+}
+.f40 {
+	font-size: 40px;
+}
+.f36 {
+	font-size: 36px;
+}
+.f30 {
+	font-size: 30px;
+}
+.f28 {
+	font-size: 28px;
+}
+.f24 {
+	font-size: 24px;
+}
+.f20 {
+	font-size: 20px;
+}
+.f18 {
+	font-size: 18px;
+}
+.f16 {
+	font-size: 16px;
+}
+.f14 {
+	font-size: 14px;
+}
+.f12 {
+	font-size: 12px;
+}
+.ftw {
+	font-weight: 700;
+}
+.ftn {
+	font-weight: 400;
+}
+.c0 {
+	color: rgb(0, 0, 0);
+}
+.cf {
+	color: rgb(255, 255, 255);
+}
+.c3 {
+	color: rgb(51, 51, 51);
+}
+.c6 {
+	color: rgb(102, 102, 102);
+}
+.c9 {
+	color: rgb(153, 153, 153);
+}
+.tdu {
+	text-decoration: underline;
+}
+.tdn {
+	text-decoration: none;
+}
+.w100p {
+	margin: 0px auto; width: 100%; height: 100%;
+}
+.w1000 {
+	margin: 0px auto; width: 1000px; height: auto;
+}
+.w1100 {
+	margin: 0px auto; width: 1100px; height: auto;
+}
+.w1200 {
+	margin: 0px auto; width: 1200px; height: auto;
+}
+.w100p.w1000 * {
+	box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.w1100 * {
+	box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.w1200 * {
+	box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.banner_box {
+	background: rgb(255, 255, 255); width: 100%; height: 640px;
+}
+.bnbx {
+	width: 100%; height: 100%; overflow: hidden; position: relative;
+}
+.bnbx .hd {
+	margin: 0px auto; left: 50%; width: 720px; height: 140px; bottom: 16px; position: absolute; z-index: 1; transform: translate(-50%, 0px); -webkit-transform: translate(-50%, 0); -moz-transform: translate(-50%, 0); -o-transform: translate(-50%, 0);
+}
+.bnbxhd_ul {
+	width: 100%; height: 100%;
+}
+.bnbxhd_ul li {
+	margin: 0px 16px; width: 100px; height: 140px; float: left;
+}
+.bnbxhd_ul li a {
+	width: 100%; height: 100%; text-align: center; display: block; position: relative;
+}
+.bnbxhd_ul li a:hover {
+	background: url("../images/bna.png") no-repeat top / cover; -webkit-background-size: cover;
+}
+.bnbxhd_ul li a img {
+	margin: 30px 8px; border-radius: 50%; border: 3px solid rgb(204, 204, 204); transition:0.5s ease-in-out; border-image: none; width: 80px; height: 80px; position: absolute; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out;
+}
+.bnbxhd_ul li a:hover img {
+	transform: rotateY(360deg); -webkit-transform: rotateY(360deg); -moz-transform: rotateY(360deg); -o-transform: rotateY(360deg);
+}
+.bnbx .bd {
+	width: 100%; height: 100%; position: relative; z-index: 0;
+}
+.bnbx_li {
+	width: 100%; height: 640px; position: relative;
+}
+.bnbx_l1 {
+	background: url("../images/bannner_01.png") no-repeat 0% 0% / cover; -webkit-background-size: cover;
+}
+.bnbx_l2 {
+	background: url("../images/bannner_02.png") no-repeat 0% 0% / cover; -webkit-background-size: cover;
+}
+.bnbx_l3 {
+	background: url("../images/bannner_03.png") no-repeat 0% 0% / cover; -webkit-background-size: cover;
+}
+.bnbx_l4 {
+	background: url("../images/bannner_04.png") no-repeat 0% 0% / cover; -webkit-background-size: cover;
+}
+.bnbx_l5 {
+	background: url("../images/bannner_05.png") no-repeat 0% 0% / cover; -webkit-background-size: cover;
+}
+.bnbxld {
+	height: 400px; color: rgb(255, 255, 255); line-height: 40px; padding-top: 80px; font-size: 18px; position: relative;
+}
+.bnbxl_p {
+	width: 70%; height: 60px; color: rgb(255, 255, 255); line-height: 60px; font-size: 14px;
+}
+.bnbxl_plgo {
+	background: url("../images/wlogo.png") no-repeat center / contain; margin: 0px 16px 0px 0px; width: 200px; height: 100%; -webkit-background-size: contain;
+}
+.bnbxld_d {
+	background: rgba(0, 0, 0, 0.5); width: 70%; height: 100px; color: rgb(255, 255, 255); line-height: 100px; padding-left: 20px; font-size: 60px; font-weight: 700; margin-top: 20px;
+}
+.bnbxld_d1 {
+	height: 80px; line-height: 80px; font-size: 42px;
+}
+.bnbxld_p {
+	width: 70%; height: 80px; color: rgb(255, 255, 255); line-height: 80px; font-size: 42px; font-weight: 700; margin-top: 0px;
+}
+.bnbxld span {
+	color: rgb(255, 200, 1);
+}
+.bnbxld > a {
+	background: rgb(255, 200, 1); border-radius: 8px; width: 20%; height: 50px; text-align: center; color: rgb(0, 0, 0); line-height: 50px; font-size: 16px; font-weight: 600; margin-top: 30px;
+}
+.qujian1 {
+	background: rgb(255, 238, 204); padding: 20px 0px;
+}
+.qj1_ul {
+	padding: 10px 0px; width: 100%; height: 180px; overflow: hidden; margin-top: 20px;
+}
+.qj1_ul li {
+	padding: 0px 2%; width: 33%; height: 100%; font-size: 14px; float: left;
+}
+.qj1ul_li2 {
+	border-right-color: rgb(153, 153, 153); border-left-color: rgb(153, 153, 153); border-right-width: 1px; border-left-width: 1px; border-right-style: dashed; border-left-style: dashed;
+}
+.qj1ul_dl {
+	width: 100%; height: 100%; overflow: hidden;
+}
+.qj1ul_dl dt {
+	background: url("../images/hot.png") no-repeat left top; width: 93%; height: 44px; color: rgb(51, 51, 51); line-height: 44px; padding-left: 7%; font-size: 16px; font-weight: 700;
+}
+.qj1ul_dl dd {
+	width: 32%; height: 36px; text-align: center; line-height: 36px; font-size: 12px; float: left;
+}
+#hot {
+	background: url("../images/hot0.gif") no-repeat right;
+}
+.qujian2 {
+	padding: 10px 0px; width: 100%; height: auto; overflow: hidden;
+}
+.qujian2 h1 {
+	margin: 25px 0px; width: 100%; height: 60px; text-align: center; line-height: 60px; font-size: 36px;
+}
+.qj2_ul {
+	width: 100%; height: auto; overflow: hidden; padding-bottom: 15px;
+}
+.qj2_ul > li {
+	height: 100%; text-align: center; overflow: hidden; margin-right: 1%; float: left;
+}
+.qi2ulli1 {
+	width: 30%;
+}
+.qi2ulli2 {
+	width: 30%;
+}
+.qi2ulli3 {
+	width: 37%;
+}
+.jiesha {
+	background: rgba(255, 200, 1, 0.57); padding: 18px; border-radius: 5px; width: 100%; height: 200px; overflow: hidden; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.jiesha p {
+	padding: 36px 0px 0px; width: 100%; font-size: 20px; font-weight: 700; margin-bottom: 10px;
+}
+.jsbox_ul {
+	margin: 0px auto; padding: 20px 0px 0px 60px; border-radius: 5px; width: 82%; height: 116px; text-align: center; overflow: hidden; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.jsbox_ul li {
+	text-align: center; color: rgb(51, 51, 51); padding-right: 8px; font-size: 30px; font-weight: 700; float: left;
+}
+.bkzn_ul {
+	padding: 30px 0px 0px; width: 100%; height: 220px; overflow: hidden;
+}
+.bkzn_ul > li {
+	background: rgb(226, 153, 153); margin: 5px 2.3%; border-radius: 5px; width: 28%; height: auto; text-align: center; line-height: 34px; font-size: 12px; float: left;
+}
+.bkzn_ul > li a:hover {
+	color: rgb(255, 255, 255);
+}
+.xxfb_tet {
+	width: 100%; text-align: left; line-height: 40px; padding-left: 10px; font-size: 16px; font-weight: 700;
+}
+.xxfb_ul {
+	width: 100%; height: 180px; overflow: hidden; padding-top: 10px; padding-left: 20px;
+}
+.xxfb_ul dt {
+	width: 100%; height: 32px; text-align: left; line-height: 32px;
+}
+.xxfb_ul dd {
+	width: 100%; height: 32px; text-align: left; line-height: 32px;
+}
+.xxfb_hot {
+	background: rgb(254, 152, 152); padding: 0px 2px;
+}
+.diyu_dl {
+	width: 100%; height: 270px; overflow: hidden;
+}
+.diyu_dl dt {
+	width: 100%; text-align: left; line-height: 36px; padding-left: 10px; font-size: 16px; font-weight: 700;
+}
+.diyu_dl dd {
+	background: rgb(255, 234, 56); margin: 10px 2.5% 0px; border-radius: 5px; width: 20%; height: 28px; text-align: center; color: rgb(0, 0, 0); line-height: 28px; float: left;
+}
+.diyu_dl dd a {
+	width: 100%; height: auto; display: block;
+}
+.diyu_dl dd a:hover {
+	color: rgb(102, 102, 102);
+}
+.renqun_ul {
+	width: 100%; height: auto; overflow: hidden; padding-left: 2%;
+}
+.renqun_ul li {
+	background: rgb(195, 148, 254); margin: 10px 1%; padding: 0px 10px; border-radius: 5px; height: 36px; text-align: center; line-height: 36px; float: left;
+}
+a.rqzx {
+	background: rgb(81, 160, 248); margin: 15px 4% 0px; border-radius: 5px; width: 40%; height: 40px; text-align: center; color: rgb(255, 255, 255); line-height: 40px; font-size: 14px; font-weight: 700;
+}
+.qj2_ol {
+	width: 100%; height: auto; overflow: hidden; padding-bottom: 15px;
+}
+.qj2_ol > li {
+	margin: 0px 2%; padding: 20px 0px; width: 46%; height: auto; float: left;
+}
+.qj2ol_dl {
+	width: 100%; height: auto; overflow: hidden;
+}
+.qj2ol_dl dt {
+	width: 100%; height: 60px; text-align: center; line-height: 60px; font-size: 28px; font-weight: 700;
+}
+.qj2ol_dl dd {
+	padding: 0px 2%; border: 1px solid rgb(102, 102, 102); border-image: none; width: 100%; height: auto; line-height: 30px; font-size: 14px;
+}
+.qj2od_ul {
+	width: 100%; height: auto;
+}
+.qj2od_ul > li {
+	padding: 5px 0px; width: 100%; height: auto;
+}
+.qj2od_ul > li p {
+	color: rgb(0, 112, 172); font-weight: 600;
+}
+.qj2od_ul > li a {
+	background: rgb(254, 152, 152); border-radius: 5px; width: 20%; height: auto; text-align: center; font-size: 12px; margin-right: 2%; display: block;
+}
+.qj2od_ul > li a:hover {
+	color: rgb(255, 255, 255);
+}
+.qujian4 {
+	padding: 20px;
+}
+.qujian4 > h2 {
+	width: 100%; height: auto; text-align: center; line-height: 60px; font-size: 40px; font-weight: 700; -webkit-text-fill-color: transparent; -webkit-background-clip: text; -webkit-background-size: 200% 100%; -webkit-animation: all 5s infinite linear;
+}
+.qujian4 > p {
+	width: 100%; height: auto; text-align: center; line-height: 40px; font-size: 24px; font-weight: 700;
+}
+.qujian4_ul {
+	padding: 20px 0px; width: 100%; height: auto;
+}
+.qujian4_ul li {
+	float: left;
+}
+.qujian4_ul li img {
+	width: 100%; height: 100%;
+}
+.qj4ul_li1 {
+	width: 50%; height: 376px;
+}
+.qj4ul_li2 {
+	width: 50%; height: auto; border-left-color: rgb(204, 204, 204); border-left-width: 1px; border-left-style: solid;
+}
+#frm_login {
+	height: auto; padding-bottom: 60px;
+}
+dl.reg_box {
+	text-align: center; padding-top: 20px;
+}
+.reg_box h4 {
+	padding: 10px; text-align: center; color: rgb(81, 211, 177); font-size: 26px; font-weight: bold;
+}
+dl.reg_box dt {
+	margin: 22px auto; border-radius: 5px; border: 1px solid rgb(198, 204, 210); border-image: none; width: 60%; overflow: hidden; clear: both; -ms-zoom: 1;
+}
+dl.reg_box dt input {
+	border: currentColor; border-image: none; width: 100%; height: 42px; line-height: 42px; padding-left: 10px; font-size: 14px;
+}
+dl.reg_box dd {
+	margin: 0px auto; height: 46px;
+}
+#btn {
+	background: rgb(69, 205, 169); margin: 30px auto auto; border-radius: 5px; border: currentColor; border-image: none; width: 60%; height: 100%; text-align: center; color: rgb(255, 255, 255); font-size: 20px; text-decoration: none; display: block; cursor: pointer;
+}
+.bannerm2 {
+	
+}
+.course {
+	padding: 40px; height: auto;
+}
+.course_1 {
+	width: 100%; height: 508px; overflow: hidden;
+}
+.course1_left {
+	width: 40%; height: 100%;
+}
+.course1_left > a {
+	width: 100%; height: 100%; display: block;
+}
+.course1_left > a > img {
+	width: 100%; height: 100%;
+}
+.course1_right {
+	width: 60%; height: 508px; overflow: hidden;
+}
+.slideBox {
+	width: 100%; height: 508px; overflow: hidden; position: relative;
+}
+.slideBox .hd {
+	height: 15px; right: 5px; bottom: 5px; overflow: hidden; position: absolute; z-index: 1;
+}
+.slideBox .hd ul {
+	overflow: hidden; float: left; -ms-zoom: 1;
+}
+.slideBox .hd ul li {
+	background: rgb(255, 255, 255); width: 15px; height: 15px; text-align: center; line-height: 14px; margin-right: 2px; float: left; cursor: pointer;
+}
+.slideBox .hd ul li.on {
+	background: rgb(255, 0, 0); color: rgb(255, 255, 255);
+}
+.slideBox .bd {
+	width: 100%; height: 508px; position: relative; z-index: 0;
+}
+.sldbd_li {
+	width: 100%; height: 508px; vertical-align: middle; position: relative; -ms-zoom: 1;
+}
+.sldbd_li1 {
+	background: url("../images/xlb_09.png") no-repeat center / contain; -webkit-background-size: contain;
+}
+.sldbd_li2 {
+	background: url("../images/xlb_07.png") no-repeat center / contain; -webkit-background-size: contain;
+}
+.sldbd_li3 {
+	background: url("../images/xlb_08.png") no-repeat center / contain; -webkit-background-size: contain;
+}
+.sldbd_li > img {
+	top: 15%; width: 400px; height: 260px; right: 6%; display: block; position: absolute;
+}
+.sldbd_li > a {
+	background: rgb(64, 50, 0); border-radius: 10px; border: 3px solid rgb(255, 255, 255); transition:0.25s; animation:sldbda 0.6s; border-image: none; width: 200px; height: 46px; text-align: center; right: 22%; bottom: 16%; color: rgb(255, 255, 255); line-height: 40px; font-size: 18px; display: block; position: absolute; -webkit-animation: sldbda 0.6s ease; -webkit-transition: all .25s; -moz-transition: all .25s; -o-transition: all .25s; -o-animation: sldbda 0.6s ease;
+}
+.sldbd_li > a:hover {
+	background: rgb(185, 145, 0);
+}
+.slideBox .prev {
+	background: url("../images/slider-arrow.png") no-repeat -110px 5px; left: 3%; top: 50%; width: 32px; height: 40px; margin-top: -25px; display: block; position: absolute; opacity: 0.5;
+}
+.slideBox .next {
+	background: url("../images/slider-arrow.png") no-repeat -110px 5px; left: 3%; top: 50%; width: 32px; height: 40px; margin-top: -25px; display: block; position: absolute; opacity: 0.5;
+}
+.slideBox .next {
+	background-position: 8px 5px; left: auto; right: 3%;
+}
+.slideBox .prev:hover {
+	opacity: 1;
+}
+.slideBox .next:hover {
+	opacity: 1;
+}
+.slideBox .prevStop {
+	display: none;
+}
+.slideBox .nextStop {
+	display: none;
+}
+.course2 .sldbd2_li {
+	padding: 60px 0px; text-align: center; position: relative;
+}
+.sldbd2_li img {
+	margin: 0px auto; width: 100%; height: 100%;
+}
+.body_box {
+	padding-bottom: 40px; position: relative;
+}
+.right_box {
+	background: rgb(0, 176, 230); padding: 30px 20px; top: 50%; width: 200px; height: auto; right: 0px; overflow: hidden; position: fixed; z-index: 99; transform: translate(0px, -50%); -webkit-transform: translate(0, -50%); -moz-transform: translate(0, -50%); -o-transform: translate(0, -50%);
+}
+.right_box * {
+	box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.right_box h4 {
+	width: 100%; height: 50px; text-align: left; color: rgb(255, 255, 255); line-height: 30px; font-size: 22px;
+}
+.cotdown_box {
+	background: rgba(255, 204, 204, 0.34); padding: 0px 10px 20px 0px; width: 100%; height: auto; text-align: right; color: rgb(255, 255, 255); font-size: 14px; margin-bottom: 10px;
+}
+.cotdown_box > p {
+	width: 100%; height: 62px; text-align: center; line-height: 62px; font-size: 26px;
+}
+.right_box > a {
+	transition:0.5s; width: 100%; height: 40px; text-align: left; color: rgb(0, 0, 0); line-height: 40px; padding-top: 10px; font-size: 16px; margin-left: 20px; display: block; -webkit-transition: all .5s; -moz-transition: all .5s; -o-transition: all .5s;
+}
+.right_box > a:hover {
+	color: rgb(189, 30, 30); transform: scale(1.2); -webkit-transform: scale(1.2, 1.2); -moz-transform: scale(1.2, 1.2); -o-transform: scale(1.2, 1.2);
+}
+.bg_box {
+	background: rgba(0, 0, 0, 0.6); left: 0px; top: 0px; width: 100%; height: 100%; display: none; position: fixed; z-index: 99999;
+}
+.tc_box {
+	background: url("../images/tcbox.png") no-repeat left top rgb(255, 255, 255); left: 50%; top: 50%; width: 754px; height: 538px; position: absolute; transform: translate(-50%, -50%); -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%);
+}
+.close_box {
+	top: 10px; width: 32px; height: 32px; right: 20px; display: block; position: absolute;
+}
+.bg_nav {
+	background: rgb(230, 230, 230); margin: 52px auto 0px; width: 100%; height: 40px; line-height: 40px; padding-left: 10px; font-size: 14px; display: block; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.bg_nav li {
+	margin: 0px 16px; overflow: hidden; float: left;
+}
+.bg_nav li a {
+	width: 100%; display: block;
+}
+.bg_nav li a:hover {
+	border-bottom-color: rgb(1, 151, 230); border-bottom-width: 3px; border-bottom-style: solid;
+}
+.bg_content {
+	margin: 0px auto; padding: 14px; width: 99%; height: 440px; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.bgct_ulL {
+	width: 170px; height: 100%;
+}
+.bgctul_lt {
+	background: url("../images/tc_gkk.png") no-repeat left top / cover; border-radius: 5px; width: 100%; height: 260px; overflow: hidden; margin-bottom: 10px; -webkit-background-size: cover;
+}
+.bgctul_lt a {
+	background: rgba(0, 0, 0, 0.4); width: 100%; height: 100%; position: relative;
+}
+.bgctul_lt a span {
+	background: url("../images/tc_play.png") no-repeat center / cover; animation:tc_gk 3s infinite; left: 50%; top: 50%; width: 50px; height: 50px; margin-top: -25px; margin-left: -25px; display: block; position: absolute; -webkit-background-size: cover; -webkit-animation: tc_gk 3s infinite; -o-animation: tc_gk 3s infinite;
+}
+.bgctul_lb {
+	background: rgb(204, 204, 204); width: 100%; height: 142px;
+}
+.bgct_divm {
+	margin: 0px 18px; width: 320px; height: 100%; overflow: hidden;
+}
+.bgctdm_at {
+	background: rgb(238, 238, 238); width: 100%; height: 160px; text-align: center; line-height: 40px; padding-top: 20px; font-size: 18px; margin-bottom: 20px;
+}
+.bgctdm_at p {
+	font-weight: 700;
+}
+.bgctdm_at span {
+	color: red;
+}
+.bgctdm_dvb {
+	width: 100%; height: auto; overflow: hidden; margin-bottom: 12px;
+}
+.bgctdm_dlm {
+	width: 100%; height: 24px; line-height: 24px; overflow: hidden; font-size: 12px;
+}
+.bgctdm_dlm dt {
+	width: 230px; height: auto; overflow: hidden; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.bgtc_fotpic {
+	border: 1px solid rgb(204, 204, 204); border-image: none; width: 100%; height: 128px; overflow: hidden; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.bgtc_fotpic .hd {
+	background: rgb(244, 244, 244); height: 16px; overflow: hidden;
+}
+.bgtc_fotpic .hd .prev {
+	background: url("../images/arrow.png") no-repeat; width: 5px; height: 16px; overflow: hidden; margin-top: 4px; margin-right: 10px; float: right; display: block; cursor: pointer;
+}
+.bgtc_fotpic .hd .next {
+	background: url("../images/arrow.png") no-repeat; width: 5px; height: 16px; overflow: hidden; margin-top: 4px; margin-right: 10px; float: right; display: block; cursor: pointer;
+}
+.bgtc_fotpic .hd .next {
+	background-position: 0px -50px;
+}
+.bgtc_fotpic .bd {
+	padding: 10px;
+}
+.bgtc_fotpic .bd ul {
+	overflow: hidden; -ms-zoom: 1;
+}
+.bgtc_fotpic .bd ul li {
+	margin: 0px 10px; text-align: center; overflow: hidden; float: left; position: relative; _display: inline;
+}
+.bgtc_fotpic .bd ul li .pic {
+	text-align: center;
+}
+.bgtc_fotpic .bd ul li .pic img {
+	padding: 2px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 120px; height: 90px; display: block;
+}
+.bgtc_fotpic .bd ul li .pic a:hover img {
+	border-color: rgb(153, 153, 153);
+}
+.bgtc_fotpic .bd ul li .title {
+	background: rgba(204, 204, 204, 0.7); padding: 0px 5px; width: 100%; text-align: center; bottom: 0px; line-height: 24px; overflow: hidden; white-space: nowrap; position: absolute; -ms-text-overflow: ellipsis; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.bgct_ulr {
+	width: 192px; height: 100%;
+}
+.bgctulr_lt {
+	background: url("../images/bgctulr_lt.jpg") no-repeat center -160px / 118%; border-radius: 5px; width: 100%; height: 260px; overflow: hidden; margin-bottom: 10px; position: relative; -webkit-background-size: 118%;
+}
+.bgctulr_lt a {
+	background: rgb(238, 238, 238); left: 0px; width: 100%; height: 50px; text-align: center; bottom: 0px; line-height: 22px; overflow: hidden; position: absolute;
+}
+.bgctulr_lt a p {
+	color: red; font-size: 20px;
+}
+.bgctulr_lb {
+	width: 100%; height: 142px; overflow: hidden;
+}
+.bgctulr_lb a {
+	width: 100%; height: 100%; overflow: hidden; position: relative;
+}
+.bgctulr_lb img {
+	width: 100%; height: 100%;
+}
+.bgctulr_lb .tit {
+	background: rgba(0, 0, 0, 0.5); padding: 0px 8px; left: 0px; width: 100%; height: 34px; text-align: center; bottom: 0px; color: rgb(255, 255, 255); line-height: 34px; overflow: hidden; white-space: nowrap; position: absolute; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+.masked {
+	margin: 10px 0px;
+}
